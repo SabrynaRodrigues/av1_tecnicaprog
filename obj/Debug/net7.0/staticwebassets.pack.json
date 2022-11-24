@@ -1,0 +1,393 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\web\\av1_tecnicaprog\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\av1_tecnicaprog.bundle.scp.css",
+      "PackagePath": "staticwebassets\\av1_tecnicaprog.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\web\\av1_tecnicaprog\\wwwroot\\axogif.gif",
+      "PackagePath": "staticwebassets\\axogif.gif"
+    },
+    {
+      "Id": "C:\\web\\av1_tecnicaprog\\wwwroot\\axoicon.png",
+      "PackagePath": "staticwebassets\\axoicon.png"
+    },
+    {
+      "Id": "C:\\web\\av1_tecnicaprog\\wwwroot\\axosicon.gif",
+      "PackagePath": "staticwebassets\\axosicon.gif"
+    },
+    {
+      "Id": "C:\\web\\av1_tecnicaprog\\wwwroot\\bb - Copia.gif",
+      "PackagePath": "staticwebassets\\bb - Copia.gif"
+    },
+    {
+      "Id": "C:\\web\\av1_tecnicaprog\\wwwroot\\bb.gif",
+      "PackagePath": "staticwebassets\\bb.gif"
+    },
+    {
+      "Id": "C:\\web\\av1_tecnicaprog\\wwwroot\\bbb.gif",
+      "PackagePath": "staticwebassets\\bbb.gif"
+    },
+    {
+      "Id": "C:\\web\\av1_tecnicaprog\\wwwroot\\beeeicon.jpg",
+      "PackagePath": "staticwebassets\\beeeicon.jpg"
+    },
+    {
+      "Id": "C:\\web\\av1_tecnicaprog\\wwwroot\\beesicon.gif",
+      "PackagePath": "staticwebassets\\beesicon.gif"
+    },
+    {
+      "Id": "C:\\web\\av1_tecnicaprog\\wwwroot\\bere.gif",
+      "PackagePath": "staticwebassets\\bere.gif"
+    },
+    {
+      "Id": "C:\\web\\av1_tecnicaprog\\wwwroot\\book.webp",
+      "PackagePath": "staticwebassets\\book.webp"
+    },
+    {
+      "Id": "C:\\web\\av1_tecnicaprog\\wwwroot\\candle.gif",
+      "PackagePath": "staticwebassets\\candle.gif"
+    },
+    {
+      "Id": "C:\\web\\av1_tecnicaprog\\wwwroot\\capaender.gif",
+      "PackagePath": "staticwebassets\\capaender.gif"
+    },
+    {
+      "Id": "C:\\web\\av1_tecnicaprog\\wwwroot\\cowicon.jpg",
+      "PackagePath": "staticwebassets\\cowicon.jpg"
+    },
+    {
+      "Id": "C:\\web\\av1_tecnicaprog\\wwwroot\\cowsicon.gif",
+      "PackagePath": "staticwebassets\\cowsicon.gif"
+    },
+    {
+      "Id": "C:\\web\\av1_tecnicaprog\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\web\\av1_tecnicaprog\\wwwroot\\dolphicon.png",
+      "PackagePath": "staticwebassets\\dolphicon.png"
+    },
+    {
+      "Id": "C:\\web\\av1_tecnicaprog\\wwwroot\\dolphinicon.jpg",
+      "PackagePath": "staticwebassets\\dolphinicon.jpg"
+    },
+    {
+      "Id": "C:\\web\\av1_tecnicaprog\\wwwroot\\endericon.png",
+      "PackagePath": "staticwebassets\\endericon.png"
+    },
+    {
+      "Id": "C:\\web\\av1_tecnicaprog\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\web\\av1_tecnicaprog\\wwwroot\\fooox.webp",
+      "PackagePath": "staticwebassets\\fooox.webp"
+    },
+    {
+      "Id": "C:\\web\\av1_tecnicaprog\\wwwroot\\foxfox.gif",
+      "PackagePath": "staticwebassets\\foxfox.gif"
+    },
+    {
+      "Id": "C:\\web\\av1_tecnicaprog\\wwwroot\\foxicon.jpg",
+      "PackagePath": "staticwebassets\\foxicon.jpg"
+    },
+    {
+      "Id": "C:\\web\\av1_tecnicaprog\\wwwroot\\goat.gif",
+      "PackagePath": "staticwebassets\\goat.gif"
+    },
+    {
+      "Id": "C:\\web\\av1_tecnicaprog\\wwwroot\\horse.gif",
+      "PackagePath": "staticwebassets\\horse.gif"
+    },
+    {
+      "Id": "C:\\web\\av1_tecnicaprog\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\web\\av1_tecnicaprog\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\web\\av1_tecnicaprog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\web\\av1_tecnicaprog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\web\\av1_tecnicaprog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\web\\av1_tecnicaprog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\web\\av1_tecnicaprog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\web\\av1_tecnicaprog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\web\\av1_tecnicaprog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\web\\av1_tecnicaprog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\web\\av1_tecnicaprog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\web\\av1_tecnicaprog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\web\\av1_tecnicaprog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\web\\av1_tecnicaprog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\web\\av1_tecnicaprog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\web\\av1_tecnicaprog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\web\\av1_tecnicaprog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\web\\av1_tecnicaprog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\web\\av1_tecnicaprog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\web\\av1_tecnicaprog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\web\\av1_tecnicaprog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\web\\av1_tecnicaprog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\web\\av1_tecnicaprog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\web\\av1_tecnicaprog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\web\\av1_tecnicaprog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\web\\av1_tecnicaprog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\web\\av1_tecnicaprog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\web\\av1_tecnicaprog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\web\\av1_tecnicaprog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\web\\av1_tecnicaprog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\web\\av1_tecnicaprog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\web\\av1_tecnicaprog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\web\\av1_tecnicaprog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\web\\av1_tecnicaprog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\web\\av1_tecnicaprog\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\web\\av1_tecnicaprog\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\web\\av1_tecnicaprog\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\web\\av1_tecnicaprog\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\web\\av1_tecnicaprog\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\web\\av1_tecnicaprog\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\web\\av1_tecnicaprog\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\web\\av1_tecnicaprog\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\web\\av1_tecnicaprog\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\web\\av1_tecnicaprog\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\web\\av1_tecnicaprog\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\web\\av1_tecnicaprog\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\web\\av1_tecnicaprog\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\web\\av1_tecnicaprog\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\web\\av1_tecnicaprog\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\web\\av1_tecnicaprog\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\web\\av1_tecnicaprog\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\web\\av1_tecnicaprog\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\web\\av1_tecnicaprog\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\web\\av1_tecnicaprog\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\web\\av1_tecnicaprog\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\web\\av1_tecnicaprog\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\web\\av1_tecnicaprog\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\web\\av1_tecnicaprog\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\web\\av1_tecnicaprog\\wwwroot\\llama.gif",
+      "PackagePath": "staticwebassets\\llama.gif"
+    },
+    {
+      "Id": "C:\\web\\av1_tecnicaprog\\wwwroot\\minelaranja.jpg",
+      "PackagePath": "staticwebassets\\minelaranja.jpg"
+    },
+    {
+      "Id": "C:\\web\\av1_tecnicaprog\\wwwroot\\minepink.jpg",
+      "PackagePath": "staticwebassets\\minepink.jpg"
+    },
+    {
+      "Id": "C:\\web\\av1_tecnicaprog\\wwwroot\\mule.webp",
+      "PackagePath": "staticwebassets\\mule.webp"
+    },
+    {
+      "Id": "C:\\web\\av1_tecnicaprog\\wwwroot\\ocelot.gif",
+      "PackagePath": "staticwebassets\\ocelot.gif"
+    },
+    {
+      "Id": "C:\\web\\av1_tecnicaprog\\wwwroot\\parrot.gif",
+      "PackagePath": "staticwebassets\\parrot.gif"
+    },
+    {
+      "Id": "C:\\web\\av1_tecnicaprog\\wwwroot\\rabbit.gif",
+      "PackagePath": "staticwebassets\\rabbit.gif"
+    },
+    {
+      "Id": "C:\\web\\av1_tecnicaprog\\wwwroot\\salmon.gif",
+      "PackagePath": "staticwebassets\\salmon.gif"
+    },
+    {
+      "Id": "C:\\web\\av1_tecnicaprog\\wwwroot\\turtle.gif",
+      "PackagePath": "staticwebassets\\turtle.gif"
+    },
+    {
+      "Id": "C:\\web\\av1_tecnicaprog\\wwwroot\\wolf.gif",
+      "PackagePath": "staticwebassets\\wolf.gif"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.av1_tecnicaprog.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.av1_tecnicaprog.props",
+      "PackagePath": "build\\av1_tecnicaprog.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.av1_tecnicaprog.props",
+      "PackagePath": "buildMultiTargeting\\av1_tecnicaprog.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.av1_tecnicaprog.props",
+      "PackagePath": "buildTransitive\\av1_tecnicaprog.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
